@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tracing-dreams-on-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tracing Dreams On Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-dreams-on-skin/) |
+| **Get License** | [Get a Licensing Quote for Tracing Dreams On Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-dreams-on-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `50e8a9ac2f6023d8df52feb78d03493610b682e96f798a36bc3b8cb0bf570337` |
 | **Timestamp** | June 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
