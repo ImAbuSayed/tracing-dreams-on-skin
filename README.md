@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tracing-dreams-on-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tracing Dreams On Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-dreams-on-skin/) |
+| **Get License** | [License this song: Tracing Dreams On Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-dreams-on-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your silhouette is painted in the low light
+> We're caught inside the magic of the deep night
+> Every breath you take is pulling me in
+> Now I'm tracing dreams right on your skin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
